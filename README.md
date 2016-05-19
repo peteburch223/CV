@@ -8,7 +8,7 @@ IT professional with 20 years experience in a very diverse range of fields. I've
 I've designed, developed and deployed a broad range of successful products for clients in many technologies. When the brief was best fulfilled by an unfamiliar technology, I have rapidly become productive. I've experience with embedded systems, databases, data cleansing, project monitoring systems, data warehouses, complex Excel macros, websites, Windows applications, XSLT and much much more.
 
 #### Management
-An experienced project and programme manager, I have looked after  multi-continent, multi-disciplinary teams working on million dollar microprocessor IP developments for ARM. I've also run a build-to-order 10 year Grant Management system implementation for EFTA across the entire product lifecycle.
+An experienced project and programme manager, I have looked after multi-continent, multi-disciplinary teams working on million dollar microprocessor IP developments for ARM. I've also run a build-to-order 10 year Grant Management system implementation for EFTA across the entire product lifecycle.
 
 #### Consulting
 Most of my career has been in client-facing roles, and I've successfully proposed, sold and implemented many projects. I'm as comfortable in the board room as in the design office, and excel in capturing complex ideas and communicating them in ways appropriate to the target audience. I've conducted technical due diligence studies for early-stage investors.
@@ -19,9 +19,9 @@ I'm not easily pigeonholed. If something needs to be done, I'll figure out how t
 ## Education
 
 #### Makers Academy : 2016
-As a self-taught developer I wanted to consolidate my existing skills and deepen my knowledge of best practice
+As a self-taught developer I wanted to consolidate my existing skills and deepen my knowledge of current best practice. In 12 weeks I completed 20 team and individual projects, culminating in an mobile Angular.js music guessing game using the Spotify API.
 - OOP, TDD, SOLID, MVC, BDD
-- Software Craftsmanship
+- Software Craftsmanship, Agile
 - Ruby, Rails, Javascript, JQuery, Angular.js, Ionic
 - Rspec, Jasmine, Karma, Protractor, Selenium
 
