@@ -19,7 +19,7 @@ I'm not easily pigeonholed. If something needs to be done, I'll figure out how t
 ## Education
 
 #### Makers Academy : 2016
-As a self-taught developer I wanted to consolidate my existing skills and deepen my knowledge of current best practice. In 12 weeks I completed 20 team and individual projects, culminating in an mobile Angular.js music guessing game using the Spotify API.
+As a self-taught developer I wanted to consolidate my existing skills and deepen my knowledge of current best practice. In 12 weeks I completed 20 team and individual projects, culminating in a mobile Angular.js music guessing game using the Spotify API.
 - OOP, TDD, SOLID, MVC, BDD
 - Software Craftsmanship, Agile
 - Ruby, Rails, Javascript, JQuery, Angular.js, Ionic
