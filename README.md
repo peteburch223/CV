@@ -1,17 +1,17 @@
 ## Pete BURCH
 
-IT professional with 20 years experience in a very diverse range of fields. I've designed, managed and developed projects and products for large corporates and small businesses. Freelance for the past decade, I'm now looking to move into a development-oriented role in a small, innovative and agile organisation to which I can make a major contribution.
+Software developer with 20 years experience in a very diverse range of fields. I've designed, managed and developed projects and products for large corporates and small businesses. Freelance for the past thirteen years, I'm now looking to move into a development-oriented role in a small, innovative and agile organisation to which I can make a major contribution.
 
 ## Key Skills
 
 #### Software Development
-I've designed, developed and deployed a broad range of successful products for clients in many technologies. When the brief was best fulfilled by an unfamiliar technology, I have rapidly become productive. I've experience with embedded systems, databases, data cleansing, project monitoring systems, data warehouses, complex Excel macros, websites, Windows applications, XSLT and much much more.
+I've designed, developed and deployed a broad range of successful products and tools for clients, using appropriate technologies and methodologies. I've experience with TDD, Azure, C#, .Net, WebAPI, NUnit, SQL Server, MongoDB, TypeScript, React/Redux, complex Excel macros, Windows applications, PHP, XSLT, embedded systems, data cleansing, project monitoring systems, data warehouses and much much more.
 
 #### Management
-An experienced project and programme manager, I have looked after multi-continent, multi-disciplinary teams working on million dollar microprocessor IP developments for ARM. I've also run a build-to-order 10 year Grant Management system implementation for EFTA across the entire product lifecycle.
+An experienced project and programme manager, I've looked after multi-continent, multi-disciplinary teams working on million dollar microprocessor IP developments for ARM. I've also run a build-to-order 10 year Grant Management system implementation for EFTA across the entire product lifecycle.
 
 #### Consulting
-Most of my career has been in client-facing roles, and I've successfully proposed, sold and implemented many projects. I'm as comfortable in the board room as in the design office, and excel in capturing complex ideas and communicating them in ways appropriate to the target audience. I've conducted technical due diligence studies for early-stage investors.
+Most of my career has been in client-facing roles, and I've successfully proposed, sold and implemented projects large and small. I'm as comfortable in the board room as in the design office, and excel in capturing complex ideas and communicating them in ways appropriate to the target audience. I've conducted technical due diligence studies for early-stage investors.
 
 #### Adaptability
 I'm not easily pigeonholed. If something needs to be done, I'll figure out how to do it. I'm tenacious, curious, highly-resourceful and love to learn.
@@ -20,10 +20,6 @@ I'm not easily pigeonholed. If something needs to be done, I'll figure out how t
 
 #### Makers Academy : 2016
 As a self-taught developer I wanted to consolidate my existing skills and deepen my knowledge of current best practice. In 12 weeks I completed 20 team and individual projects, culminating in a mobile Angular.js music guessing game using the Spotify API.
-- OOP, TDD, SOLID, MVC, BDD
-- Software Craftsmanship, Agile
-- Ruby, Rails, Javascript, JQuery, Angular.js, Ionic
-- Rspec, Jasmine, Karma, Protractor, Selenium
 
 #### Manchester University
 MSc Industrial Engineering : 1993 - 1994
@@ -40,22 +36,24 @@ Fluent written and spoken French.
 
 ## Employment History
 
-### Freelance IT Consultant: 2005 - 2016.
+### Freelance IT Consultant: 2005 - 2018.
 
 ##### Client projects include:
-- End-to-end Grant Management System implementation for the EFTA Financial Mechanism office, including requirements capture, business analysis, international public sector procurement management, day-to-day project management, system roll-out and support.
+- System design and development of Azure-hosted in-house tool suite to automate conversion of several thousand legacy e-learning courses to Inkling and Adapt platforms. Particular focus on extraction of Flash media and internationalization. Conversion engine and API developed in C#, front-end process management app in Typescript React/Redux. 2 years.
 
-- Creation and deployment of infrastructure to migrate 1300-page website from Dreamweaver to Wordpress.
+- Development of Wordpress plugin to create a secure API for a hotel booking platform. 2 months.
 
-- Deployment of rail ticketing system for Amadeus.
+- End-to-end Grant Management System implementation for the EFTA Financial Mechanism office, including requirements capture, business analysis, international public sector procurement management, day-to-day project management, system roll-out and support. 10 years.
 
-- Rescue and launch of moribund e-commerce project for tool retailer.
+- Developed tools to automate migration of 1300-page website from Dreamweaver to Wordpress. 3 months.
 
-- PMP trainer to senior IT project managers.
+- Deployment of rail ticketing system for Amadeus. 6 months.
 
-- Creation of infrastructure to migrate Caterpillar e-learning modules to a new platform and to enable rapid translation into european and non-european languages.
+- Rescue and launch of moribund e-commerce project for tool retailer. 3 months.
 
-- Development of Excel reports for Caterpillar to monitor effectiveness of e-learning programmes.
+- Developed and delivered PMP training course to senior IT project managers. 2 months.
+
+- Developed Excel reports for Caterpillar to monitor effectiveness of e-learning programmes. 2 months.
 
 ###  Enterprise Software Integration Manager : 2014 - 2015
 #### Towers Watson
