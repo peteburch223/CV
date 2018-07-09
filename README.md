@@ -1,6 +1,6 @@
 ## Pete BURCH
 
-Software developer with 20 years experience in a very diverse range of fields. I've designed, managed and developed projects and products for large corporates and small businesses. Freelance for the past thirteen years, I'm now looking to move into a development-oriented role in a small, innovative and agile organisation to which I can make a major contribution.
+Software developer with 20 years diverse industry experience. I've designed, managed and developed projects and products for large corporates and small businesses. Freelance for the past thirteen years, I'm now looking to move into a development-oriented role in a small, innovative and agile organisation to which I can make a major contribution.
 
 ## Key Skills
 
