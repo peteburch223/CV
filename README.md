@@ -1,17 +1,17 @@
 ## Pete BURCH
 
-Software developer with 20 years diverse industry experience. I've designed, managed and developed projects and products for large corporates and small businesses. Freelance for the past thirteen years, I'm now looking to move into a development-oriented role in a small, innovative and agile organisation to which I can make a major contribution.
+Software developer with 20+ years diverse industry experience. I've designed, managed and developed projects and products for large corporates and small businesses. Freelance for the past thirteen years, I'm now looking to move into a development role in a small, innovative and agile organisation to which I can make a major contribution.
 
 ## Key Skills
 
 #### Software Development
-I've designed, developed and deployed a broad range of successful products and tools for clients, using appropriate technologies and methodologies. I've experience with TDD, Azure, C#, .Net, WebAPI, NUnit, SQL Server, MongoDB, TypeScript, React/Redux, complex Excel macros, Windows applications, PHP, XSLT, embedded systems, data cleansing, project monitoring systems, data warehouses and much much more.
+I've designed, developed and deployed a broad range of successful products and tools for clients, using appropriate technologies and methodologies. I've experience with TDD, Azure, C#, .Net, WebAPI, NUnit, SQL Server, MongoDB, TypeScript, React/Redux, complex Excel macros, Windows applications, PHP, XSLT, data migration and cleansing, data warehouses and much much more.
 
 #### Management
 An experienced project and programme manager, I've looked after multi-continent, multi-disciplinary teams working on million dollar microprocessor IP developments for ARM. I've also run a build-to-order 10 year Grant Management system implementation for EFTA across the entire product lifecycle.
 
 #### Consulting
-Most of my career has been in client-facing roles, and I've successfully proposed, sold and implemented projects large and small. I'm as comfortable in the board room as in the design office, and excel in capturing complex ideas and communicating them in ways appropriate to the target audience. I've conducted technical due diligence studies for early-stage investors.
+I've spent most of my career in client-facing roles, and have successfully proposed, sold and implemented projects large and small. I'm as comfortable in the board room as in the design office, and excel in capturing complex ideas and communicating them in ways appropriate to the target audience. I've conducted technical due diligence studies for early-stage investors.
 
 #### Adaptability
 I'm not easily pigeonholed. If something needs to be done, I'll figure out how to do it. I'm tenacious, curious, highly-resourceful and love to learn.
@@ -43,11 +43,11 @@ Fluent written and spoken French.
 
 - Development of Wordpress plugin to create a secure API for a hotel booking platform. 2 months.
 
-- End-to-end Grant Management System implementation for the EFTA Financial Mechanism office, including requirements capture, business analysis, international public sector procurement management, day-to-day project management, system roll-out and support. 10 years.
+- End-to-end Grant Management System implementation for the EFTA Financial Mechanism Office, including requirements capture, business analysis, international public sector procurement management, day-to-day project management, system roll-out and support. 10 years.
 
 - Developed tools to automate migration of 1300-page website from Dreamweaver to Wordpress. 3 months.
 
-- Deployment of rail ticketing system for Amadeus. 6 months.
+- Deployment of rail ticketing system for Amadeus Developed departmental management dashboard. 6 months.
 
 - Rescue and launch of moribund e-commerce project for tool retailer. 3 months.
 
